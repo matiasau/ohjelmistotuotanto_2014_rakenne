@@ -1,19 +1,62 @@
 (johdanto)
 
-    mikä projekti?
+Mikä projekti?
+	Peppi - Koulutuksen suunnittelijan ja opettajan palvelut
+	Toiminnallinen vaatimusmäärittely
 	
-    lukijakunta, kenelle dokumentti on tarkoitettu?
+Lukijakunta, kenelle dokumentti on tarkoitettu?
+	Järjestelmän toteuttajille ja tilaajille.
 	
-    tilanne?
-    motivaatio, miksi dokumentti on luotu?
-    dokumentin rakenne, millainen se on esim. verrattuna projektissa käytettävään malliin? Kts. myös Wikipediasta löytyvä runko.
+Tilanne?
+Kehitteillä.
+
+Motivaatio, miksi dokumentti on luotu?
+Jotta voidaan määritellä Peppi-tietojärjestelmäkokonaisuuden ominaisuudet ja
+toiminnot.
+
+Dokumentin rakenne, millainen se on esim. verrattuna projektissa käytettävään malliin? Kts. myös Wikipediasta löytyvä runko.
+Wikipedian mallia suurinpiirtein noudattava, kattava.
 
 (käyttötapaukset)
 
-    mitä sillä voi tehdä?
-    käyttötapauskaavio(t)?
-    kuinka yksityiskohtaisesti kuvattu?
-    skenaariot? tarinat?
+Mitä sillä voi tehdä?
+Kaikenlaista opetuksen suunnitteluun liittyvää.
+
+Käyttäjiä on ainakin kahta tyyppiä, suunnittelija ja opettaja. Näillä on osittain samoja toimintoja käytettävissä.
+
+Suunnittelija:
+
+	- Sähköinen työpöytä, josta hallitaan eri toimintoja
+	- Pikaviestipalvelut
+	- Oma profiili
+	- Opetussuunnitelun työkalut
+	- Työ- ja lukujärjestyssuunnittelu
+	- Raportointi, tieto ja seuranta
+	
+Opettaja:
+
+	- Pikaviestit
+	- Oma profiili
+	- Työaikasuunnitelmien hallinta
+	- Toteutusten hallintatyökalu
+	- Oman työjärjestyksen hallintaväline ja opetustapahtumien ylläpito ja hallinta
+	- Opintojaksototeutusten ilmoittautumisten hallinta
+	- Väliarviointi, arviointi ja arvosanojen hallinta
+	- Opintojaksopalautteen hallinta
+	- Opiskelijakansio
+	- Sähköisten työtilojen ja oppimisympäristöjen hallinta
+	- Oppimateriaalien hallinta ja toteutussuunnitelmatietojen kopiointi
+	- Opetussuunnittelu
+	
+Käyttötapauskaavio(t)?
+
+Eri käyttötapauksia on kuvattu kymmeniä ja niiden toiminnot on kuvattu hyvinkin tarkasti lukuisine huomioineen.
+
+Käyttötapaukset ovat tarinamuodossa taulukossa.
+
+esim.
+
+![Käyttötapausesimerkki](kayttotapaus.png)
 
 (järjestelmän yleisrakenne)
 
