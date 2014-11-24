@@ -1,107 +1,110 @@
+Linkki alkuperÃ¤iseen:
+https://wiki.metropolia.fi/download/attachments/27199398/Peppi+-+Toiminnallinen+vaatimusm%C3%A4%C3%A4rittely10.pdf
+
 (johdanto)
 
-Mikä projekti?
+MikÃ¤ projekti?
 	Peppi - Koulutuksen suunnittelijan ja opettajan palvelut
-	Toiminnallinen vaatimusmäärittely
+	Toiminnallinen vaatimusmÃ¤Ã¤rittely
 	
 Lukijakunta, kenelle dokumentti on tarkoitettu?
-	Järjestelmän toteuttajille ja tilaajille.
+	JÃ¤rjestelmÃ¤n toteuttajille ja tilaajille.
 	
 Tilanne?
-Kehitteillä.
+KehitteillÃ¤.
 
 Motivaatio, miksi dokumentti on luotu?
-Jotta voidaan määritellä Peppi-tietojärjestelmäkokonaisuuden ominaisuudet ja
+Jotta voidaan mÃ¤Ã¤ritellÃ¤ Peppi-tietojÃ¤rjestelmÃ¤kokonaisuuden ominaisuudet ja
 toiminnot.
 
-Dokumentin rakenne, millainen se on esim. verrattuna projektissa käytettävään malliin? Kts. myös Wikipediasta löytyvä runko.
+Dokumentin rakenne, millainen se on esim. verrattuna projektissa kÃ¤ytettÃ¤vÃ¤Ã¤n malliin? Kts. myÃ¶s Wikipediasta lÃ¶ytyvÃ¤ runko.
 Wikipedian mallia suurinpiirtein noudattava, kattava.
 
-(käyttötapaukset)
+(kÃ¤yttÃ¶tapaukset)
 
-Mitä sillä voi tehdä?
-Kaikenlaista opetuksen suunnitteluun liittyvää.
+MitÃ¤ sillÃ¤ voi tehdÃ¤?
+Kaikenlaista opetuksen suunnitteluun liittyvÃ¤Ã¤.
 
-Käyttäjiä on ainakin kahta tyyppiä, suunnittelija ja opettaja. Näillä on osittain samoja toimintoja käytettävissä.
+KÃ¤yttÃ¤jiÃ¤ on ainakin kahta tyyppiÃ¤, suunnittelija ja opettaja. NÃ¤illÃ¤ on osittain samoja toimintoja kÃ¤ytettÃ¤vissÃ¤.
 
 Suunnittelija:
 
-	- Sähköinen työpöytä, josta hallitaan eri toimintoja
+	- SÃ¤hkÃ¶inen tyÃ¶pÃ¶ytÃ¤, josta hallitaan eri toimintoja
 	- Pikaviestipalvelut
 	- Oma profiili
-	- Opetussuunnitelun työkalut
-	- Työ- ja lukujärjestyssuunnittelu
+	- Opetussuunnitelun tyÃ¶kalut
+	- TyÃ¶- ja lukujÃ¤rjestyssuunnittelu
 	- Raportointi, tieto ja seuranta
 	
 Opettaja:
 
 	- Pikaviestit
 	- Oma profiili
-	- Työaikasuunnitelmien hallinta
-	- Toteutusten hallintatyökalu
-	- Oman työjärjestyksen hallintaväline ja opetustapahtumien ylläpito ja hallinta
+	- TyÃ¶aikasuunnitelmien hallinta
+	- Toteutusten hallintatyÃ¶kalu
+	- Oman tyÃ¶jÃ¤rjestyksen hallintavÃ¤line ja opetustapahtumien yllÃ¤pito ja hallinta
 	- Opintojaksototeutusten ilmoittautumisten hallinta
-	- Väliarviointi, arviointi ja arvosanojen hallinta
+	- VÃ¤liarviointi, arviointi ja arvosanojen hallinta
 	- Opintojaksopalautteen hallinta
 	- Opiskelijakansio
-	- Sähköisten työtilojen ja oppimisympäristöjen hallinta
+	- SÃ¤hkÃ¶isten tyÃ¶tilojen ja oppimisympÃ¤ristÃ¶jen hallinta
 	- Oppimateriaalien hallinta ja toteutussuunnitelmatietojen kopiointi
 	- Opetussuunnittelu
 	
-Käyttötapauskaavio(t)?
+KÃ¤yttÃ¶tapauskaavio(t)?
 
-Eri käyttötapauksia on kuvattu kymmeniä ja niiden toiminnot on kuvattu hyvinkin tarkasti lukuisine huomioineen.
+Eri kÃ¤yttÃ¶tapauksia on kuvattu kymmeniÃ¤ ja niiden toiminnot on kuvattu hyvinkin tarkasti lukuisine huomioineen.
 
-Käyttötapaukset ovat tarinamuodossa taulukossa.
+KÃ¤yttÃ¶tapaukset ovat tarinamuodossa taulukossa.
 
 esim.
 
-![Käyttötapausesimerkki](kayttotapaus.png)
+![KÃ¤yttÃ¶tapausesimerkki](kayttotapaus.png)
 
-(järjestelmän yleisrakenne)
+(jÃ¤rjestelmÃ¤n yleisrakenne)
 
-    MITÄ KAAVIOTEKNIIKOITA KÄYTETÄÄN? MIKSI?
+    MITÃ„ KAAVIOTEKNIIKOITA KÃ„YTETÃ„Ã„N? MIKSI?
 	- toimintakaavio		(helpotetaan olennaisen asian tiedostamista)
-	- prosessinkuvauskaavio	(konkreettisesti näytetään miten prosessi etenee)
+	- prosessinkuvauskaavio	(konkreettisesti nÃ¤ytetÃ¤Ã¤n miten prosessi etenee)
 	
 
 (funktionaaliset & ei-funktionaaliset vaatimukset)
 
-    esitetäänkö listauksena?
+    esitetÃ¤Ã¤nkÃ¶ listauksena?
     tunnistetiedot? numeroitu?
-    jäljitettävyys? mitattavuus? (Miten voidaan jälkikäteen todentaa, että vaatimukset on myös toteutettu, kuten suunniteltu?)
+    jÃ¤ljitettÃ¤vyys? mitattavuus? (Miten voidaan jÃ¤lkikÃ¤teen todentaa, ettÃ¤ vaatimukset on myÃ¶s toteutettu, kuten suunniteltu?)
 
-(miltä se näyttää)
+(miltÃ¤ se nÃ¤yttÃ¤Ã¤)
 
-    onko käyttöliittymästä kuvia?
-		- dokumentissa on monia kuvia käyttöliittymästä ja sen eri tilanteista
+    onko kÃ¤yttÃ¶liittymÃ¤stÃ¤ kuvia?
+		- dokumentissa on monia kuvia kÃ¤yttÃ¶liittymÃ¤stÃ¤ ja sen eri tilanteista
 		
-    luonnoksia vai kuvakaappauksia valmiista käyttöliittymästä?
+    luonnoksia vai kuvakaappauksia valmiista kÃ¤yttÃ¶liittymÃ¤stÃ¤?
 		- kuvankaappauksia
 		
-    miten eri näkymien (views) välillä liikutaan?
+    miten eri nÃ¤kymien (views) vÃ¤lillÃ¤ liikutaan?
 		- 
 		
 (prosessimalli)
 
-    onko kuvattu? voi olla myös erillisessä projektisuunnitelmadokumentissa
-		- Kyllä
+    onko kuvattu? voi olla myÃ¶s erillisessÃ¤ projektisuunnitelmadokumentissa
+		- KyllÃ¤
     resurssit? budjetti?
 		- 
     riskianalyysi?
-		- erillisistä ongelmatilanteista on mainittu
+		- erillisistÃ¤ ongelmatilanteista on mainittu
 
-(johtopäätökset, oma mielipide)
+(johtopÃ¤Ã¤tÃ¶kset, oma mielipide)
 
-    mikä tekee hyvän dokumentin?
+    mikÃ¤ tekee hyvÃ¤n dokumentin?
 		- kuvat
-		- selkeä otsikointi
-		- informaation määrä
+		- selkeÃ¤ otsikointi
+		- informaation mÃ¤Ã¤rÃ¤
 		
-    onko tämä sellainen? miksi?
-		- tämä dokumentti vastaa näihin määrittelyihin
+    onko tÃ¤mÃ¤ sellainen? miksi?
+		- tÃ¤mÃ¤ dokumentti vastaa nÃ¤ihin mÃ¤Ã¤rittelyihin
 		
-    kaavioiden käyttö: laatu? määrä? hyöty?
+    kaavioiden kÃ¤yttÃ¶: laatu? mÃ¤Ã¤rÃ¤? hyÃ¶ty?
 		- kaaviot ovat monimutkaisia
-		- mielestäni liian vähän ( 1 per 30 sivua )
+		- mielestÃ¤ni liian vÃ¤hÃ¤n ( 1 per 30 sivua )
 		- helpottaa asian omaksumista, nopeuttaa prosessia
