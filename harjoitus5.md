@@ -42,25 +42,26 @@ näkymät toiminnallisesta näkökulmasta, älä niinkään ajattele miltä ne näyttävät
 	- Pistenäkymässä näkyvät pelaajien pisteet sekä omat parhaat pisteet kautta aikojen.
 
 4. Määritä näkymien väliset siirtymät korkealla tasolla, mistä näkymästä pääsee minnekin? Millä tavoin visualisoisit tilasiirtymät?
-	-Aloitusnäkymä (sisältää valikon, taustakuvan ja pelin logon)
+
+	- Aloitusnäkymä (sisältää valikon, taustakuvan ja pelin logon)
 	-> aloita peli -> peliasetukset -> pelinäkymä
 	-> liity peliin
 	-> profiili
 	-> pisteet
 
-	-Pelinäkymä (2D pelikartta, tiimipisteet, ekstrat, oma ja muiden sijainti, valtausalueiden rajat, valikkoiconi josta pääsee 
+	- Pelinäkymä (2D pelikartta, tiimipisteet, ekstrat, oma ja muiden sijainti, valtausalueiden rajat, valikkoiconi josta pääsee 
 	valikkoon)
 	->aloitusnäkymä
 	->omat asetukset
 
-	-liity peliin (valittavissa olevat pelit, tietoa siitä mihin peliin on liittynyt sekä virhesanomat )
+	- liity peliin (valittavissa olevat pelit, tietoa siitä mihin peliin on liittynyt sekä virhesanomat )
 	->pelinäkymä
 	->aloitusnäkymä
 
-	-Profiili (oman hahmon nimi ja profiilikuva) 
+	- Profiili (oman hahmon nimi ja profiilikuva) 
 	-> pelinäkymään jos peli on käynnissä tai aloitusnäkymään
 
-	-Pisteet (omat parhaat pisteet ja viimeisimpien pelien tiimipisteet) 
+	- Pisteet (omat parhaat pisteet ja viimeisimpien pelien tiimipisteet) 
 	-> aloitusnäkymä
 
 	Tilasiirtymien välissä olisi 3Dzoom-fadein. Pelin käynnistämisen jälkeen aloitusruutu ennen kuin peli lataa. Pelin loputtua 
