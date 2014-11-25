@@ -1,5 +1,4 @@
 
-
 ##Harjoitus 5
 
 ###1. Käsitteet
@@ -42,14 +41,14 @@ näkymät toiminnallisesta näkökulmasta, älä niinkään ajattele miltä ne näyttävät
 	- Pistenäkymässä näkyvät pelaajien pisteet sekä omat parhaat pisteet kautta aikojen.
 
 4. Määritä näkymien väliset siirtymät korkealla tasolla, mistä näkymästä pääsee minnekin? Millä tavoin visualisoisit tilasiirtymät?
-
 	- Aloitusnäkymä (sisältää valikon, taustakuvan ja pelin logon)
 	-> aloita peli -> peliasetukset -> pelinäkymä
 	-> liity peliin
 	-> profiili
 	-> pisteet
 
-	- Pelinäkymä (2D pelikartta, tiimipisteet, ekstrat, oma ja muiden sijainti, valtausalueiden rajat, valikkoiconi josta pääsee 
+	- Pelinäkymä (2D pelikartta, tiimipisteet, ekstrat, oma ja muiden sijainti, valtausalueiden rajat, 
+	valikkoiconi josta pääsee 
 	valikkoon)
 	->aloitusnäkymä
 	->omat asetukset
@@ -64,9 +63,6 @@ näkymät toiminnallisesta näkökulmasta, älä niinkään ajattele miltä ne näyttävät
 	- Pisteet (omat parhaat pisteet ja viimeisimpien pelien tiimipisteet) 
 	-> aloitusnäkymä
 
-	Tilasiirtymien välissä olisi 3Dzoom-fadein. Pelin käynnistämisen jälkeen aloitusruutu ennen kuin peli lataa. Pelin loputtua 
-	loppuruutu jossa näkyy voittanut tiimi ja kaikkien tiimien pisteet. Pelinäkymien välissä fade-to-black.
-
-
-
-
+	Tilasiirtymien välissä olisi 3Dzoom-fadein. Pelin käynnistämisen jälkeen aloitusruutu ennen kuin peli lataa. 
+	Pelin loputtua loppuruutu jossa näkyy voittanut tiimi ja kaikkien tiimien pisteet. Pelinäkymien välissä 
+	fade-to-black.
