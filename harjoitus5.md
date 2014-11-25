@@ -2,69 +2,71 @@
 
 ##Harjoitus 5
 
-###1. Käsitteet
+###1. KÃ¤sitteet
 
-1. Näkymä:
-Ohjelmanäkymä jossa voi olla mm. työstämisalue, valikoita ja työkalupalkkeja. Näkymä on graafinen ja osa käyttöliittymää.
+1. NÃ¤kymÃ¤:
+OhjelmanÃ¤kymÃ¤ jossa voi olla mm. tyÃ¶stÃ¤misalue, valikoita ja tyÃ¶kalupalkkeja. NÃ¤kymÃ¤ on graafinen ja osa kÃ¤yttÃ¶liittymÃ¤Ã¤.
 
 2. Wireframe:
 On yksinkertainen graafinen esitys tai rautalankamalli ohjelman tai nettisivun toiminnallisuudesta ja ominaisuuksista.
 
 3. Mockup:
-Tarkempi graafinen luonnos ohjelman ulkoasusta kuin wireframe. Voi sisältää esimerkiksi käyttöliittymäelementtejä, valikkoja, työkalupalkkeja ja työstämisalueita.
+Tarkempi graafinen luonnos ohjelman ulkoasusta kuin wireframe. Voi sisÃ¤ltÃ¤Ã¤ esimerkiksi kÃ¤yttÃ¶liittymÃ¤elementtejÃ¤, valikkoja, tyÃ¶kalupalkkeja ja tyÃ¶stÃ¤misalueita.
 
 4. Prototyyppi:
-On ainakin osittain toimiva ohjelmaversio josta löytyy perustoiminnallisuus. Prototyypissä kaikki ominaisuudet eivät yleensä ole viimeisteltyjä ja esiintyy bugeja.
+On ainakin osittain toimiva ohjelmaversio josta lÃ¶ytyy perustoiminnallisuus. PrototyypissÃ¤ kaikki ominaisuudet eivÃ¤t yleensÃ¤ ole viimeisteltyjÃ¤ ja esiintyy bugeja.
 
-###2. Näkymät
-1. Miten käyttötapaukset ja käyttöliittymät voisi yhdistää toisiinsa vaatimusmäärittelydokumentaatiossa?
-Käyttötapaukset ja käyttöliittymänäkymät voidaan yhdistää toisiinsa wireframe mallissa.
+###2. NÃ¤kymÃ¤t
+1. Miten kÃ¤yttÃ¶tapaukset ja kÃ¤yttÃ¶liittymÃ¤t voisi yhdistÃ¤Ã¤ toisiinsa vaatimusmÃ¤Ã¤rittelydokumentaatiossa?
+KÃ¤yttÃ¶tapaukset ja kÃ¤yttÃ¶liittymÃ¤nÃ¤kymÃ¤t voidaan yhdistÃ¤Ã¤ toisiinsa wireframe mallissa.
 
-2. Listaa järjestelmän käyttöliittymän olennaisimmat näkymät.
-	- Aloitusnäkymä
-	- pelinäkymä
+2. Listaa jÃ¤rjestelmÃ¤n kÃ¤yttÃ¶liittymÃ¤n olennaisimmat nÃ¤kymÃ¤t.
+	- AloitusnÃ¤kymÃ¤
+	- pelinÃ¤kymÃ¤
 	- Peliasetukset
 	- Profiili
 	- Pisteet
 
-3. ja 5. Kuvaile näkymät sanallisesti: mitä näkymällä tehdään ja mitä siinä näkyy. Pyri määrittelemään tässä 
-näkymät toiminnallisesta näkökulmasta, älä niinkään ajattele miltä ne näyttävät
-	- Aloitusnäkymässä on pelin logo, taustakuva ja kolme nappia joista päästään aloittamaan peli, säätämään asetuksia ja 		
-	katsomaan pisteitä.
-	- Pelinäkymässä on 2D karttanäkymä jossa näkyvät muut pelaajat ja vallattavat alueet erivärisinä, alueiden valtauksen 
-	aikalaskuri sekä löydetyt "extrat" ja valikko josita ekstroja voi aktivoida. Lisäksi näkyy tiimikohtaiset pisteet jossain 
-	ruudun yläreunassa.
-	- Peliasetukset-näkymästä löytyvät peliasetukset, kuten pelaajien määrä, laitteiden yhdistäminen peliin, valtausalueiden 
-	määrittäminen sekä erän kesto ja pelimoodi.
-	- Liity peliin-näkymässä näkyy lista tarjolla olevista peleistä tai se, mihin peliin on liittynyt. Lisäksi teknistä tietoa, 
+3. ja 5. Kuvaile nÃ¤kymÃ¤t sanallisesti: mitÃ¤ nÃ¤kymÃ¤llÃ¤ tehdÃ¤Ã¤n ja mitÃ¤ siinÃ¤ nÃ¤kyy. Pyri mÃ¤Ã¤rittelemÃ¤Ã¤n tÃ¤ssÃ¤ 
+nÃ¤kymÃ¤t toiminnallisesta nÃ¤kÃ¶kulmasta, Ã¤lÃ¤ niinkÃ¤Ã¤n ajattele miltÃ¤ ne nÃ¤yttÃ¤vÃ¤t
+	- AloitusnÃ¤kymÃ¤ssÃ¤ on pelin logo, taustakuva ja kolme nappia joista pÃ¤Ã¤stÃ¤Ã¤n aloittamaan peli, sÃ¤Ã¤tÃ¤mÃ¤Ã¤n asetuksia ja 		
+	katsomaan pisteitÃ¤.
+	- PelinÃ¤kymÃ¤ssÃ¤ on 2D karttanÃ¤kymÃ¤ jossa nÃ¤kyvÃ¤t muut pelaajat ja vallattavat alueet erivÃ¤risinÃ¤, alueiden valtauksen 
+	aikalaskuri sekÃ¤ lÃ¶ydetyt "extrat" ja valikko josita ekstroja voi aktivoida. LisÃ¤ksi nÃ¤kyy tiimikohtaiset pisteet jossain 
+	ruudun ylÃ¤reunassa.
+	- Peliasetukset-nÃ¤kymÃ¤stÃ¤ lÃ¶ytyvÃ¤t peliasetukset, kuten pelaajien mÃ¤Ã¤rÃ¤, laitteiden yhdistÃ¤minen peliin, valtausalueiden 
+	mÃ¤Ã¤rittÃ¤minen sekÃ¤ erÃ¤n kesto ja pelimoodi.
+	- Liity peliin-nÃ¤kymÃ¤ssÃ¤ nÃ¤kyy lista tarjolla olevista peleistÃ¤ tai se, mihin peliin on liittynyt. LisÃ¤ksi teknistÃ¤ tietoa, 
 	kuten virhesanomat.
-	- Profiilinäkymässä yksittäinen pelaaja voi määrittää oman pelinimen sekä profiilikuvan.
-	- Pistenäkymässä näkyvät pelaajien pisteet sekä omat parhaat pisteet kautta aikojen.
+	- ProfiilinÃ¤kymÃ¤ssÃ¤ yksittÃ¤inen pelaaja voi mÃ¤Ã¤rittÃ¤Ã¤ oman pelinimen sekÃ¤ profiilikuvan.
+	- PistenÃ¤kymÃ¤ssÃ¤ nÃ¤kyvÃ¤t pelaajien pisteet sekÃ¤ omat parhaat pisteet kautta aikojen.
 
-4. Määritä näkymien väliset siirtymät korkealla tasolla, mistä näkymästä pääsee minnekin? Millä tavoin visualisoisit tilasiirtymät?
-	-Aloitusnäkymä (sisältää valikon, taustakuvan ja pelin logon)
-	-> aloita peli -> peliasetukset -> pelinäkymä
+4. MÃ¤Ã¤ritÃ¤ nÃ¤kymien vÃ¤liset siirtymÃ¤t korkealla tasolla, mistÃ¤ nÃ¤kymÃ¤stÃ¤ pÃ¤Ã¤see minnekin? MillÃ¤ tavoin visualisoisit tilasiirtymÃ¤t?
+	- AloitusnÃ¤kymÃ¤ (sisÃ¤ltÃ¤Ã¤ valikon, taustakuvan ja pelin logon)
+	-> aloita peli -> peliasetukset -> pelinÃ¤kymÃ¤
 	-> liity peliin
 	-> profiili
 	-> pisteet
 
-	-Pelinäkymä (2D pelikartta, tiimipisteet, ekstrat, oma ja muiden sijainti, valtausalueiden rajat, valikkoiconi josta pääsee 
+	- PelinÃ¤kymÃ¤ (2D pelikartta, tiimipisteet, ekstrat, oma ja muiden sijainti, valtausalueiden rajat, 
+	valikkoiconi josta pÃ¤Ã¤see 
 	valikkoon)
-	->aloitusnäkymä
+	->aloitusnÃ¤kymÃ¤
 	->omat asetukset
 
-	-liity peliin (valittavissa olevat pelit, tietoa siitä mihin peliin on liittynyt sekä virhesanomat )
-	->pelinäkymä
-	->aloitusnäkymä
+	- liity peliin (valittavissa olevat pelit, tietoa siitÃ¤ mihin peliin on liittynyt sekÃ¤ virhesanomat )
+	->pelinÃ¤kymÃ¤
+	->aloitusnÃ¤kymÃ¤
 
-	-Profiili (oman hahmon nimi ja profiilikuva) 
-	-> pelinäkymään jos peli on käynnissä tai aloitusnäkymään
+	- Profiili (oman hahmon nimi ja profiilikuva) 
+	-> pelinÃ¤kymÃ¤Ã¤n jos peli on kÃ¤ynnissÃ¤ tai aloitusnÃ¤kymÃ¤Ã¤n
 
-	-Pisteet (omat parhaat pisteet ja viimeisimpien pelien tiimipisteet) 
-	-> aloitusnäkymä
+	- Pisteet (omat parhaat pisteet ja viimeisimpien pelien tiimipisteet) 
+	-> aloitusnÃ¤kymÃ¤
 
-	Tilasiirtymien välissä olisi 3Dzoom-fadein. Pelin käynnistämisen jälkeen aloitusruutu ennen kuin peli lataa. Pelin loputtua 
-	loppuruutu jossa näkyy voittanut tiimi ja kaikkien tiimien pisteet. Pelinäkymien välissä fade-to-black.
+	Tilasiirtymien vÃ¤lissÃ¤ olisi 3Dzoom-fadein. Pelin kÃ¤ynnistÃ¤misen jÃ¤lkeen aloitusruutu ennen kuin peli lataa. 
+	Pelin loputtua loppuruutu jossa nÃ¤kyy voittanut tiimi ja kaikkien tiimien pisteet. PelinÃ¤kymien vÃ¤lissÃ¤ 
+	fade-to-black.
 
 
 
