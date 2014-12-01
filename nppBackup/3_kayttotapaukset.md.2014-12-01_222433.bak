@@ -6,9 +6,3 @@
   * mallipohja: määritä alkutila (initial state), normaali kulku (normal flow), lopputila (end state)
   * kerro myös kuinka normaali kulku voi mennä pieleen sekä
   * mahdolliset vaihtoehtoiset kulut (alternate flow)
-  
-## Järjestelmän loppukäyttäjät
-
-* Pelaaja, joka voi toimia kahdessa eri roolissa:
-	* pelin ylläpitäjänä, joka luo pelin ja liittyy siihen itsekin
-	* tavallisena pelaajana, joka liittyy jo luotuun peliin

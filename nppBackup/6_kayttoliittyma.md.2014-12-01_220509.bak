@@ -1,0 +1,13 @@
+## Käyttöliittymä
+
+* listaa käyttöliittymän näkymät
+* niiden keskinäiset suhteet
+* kuvaile mitä näkymässä tapahtuu / tehdään
+
+
+* _Aloitusnäkymässä_ on pelin logo, taustakuva ja kolme nappia joista päästään aloittamaan peli, säätämään asetuksia ja katsomaan pisteitä.
+* _Pelinäkymässä_ on 2D-karttanäkymä jossa näkyvät muut pelaajat ja vallattavat alueet erivärisinä, alueiden valtauksen aikalaskuri sekä löydetyt "extrat" ja valikko joista ekstroja voi aktivoida. Lisäksi näkyy tiimikohtaiset pisteet jossain ruudun yläreunassa. Alueita vallataan liikkumalla fyysisesti niiden päälle, ja pysymällä alueella määritellyn ajan, jolloin alue siirtyy pelaajan joukkueen haltuun.
+* _Peliasetukset_-näkymästä löytyvät peliasetukset, kuten pelaajien määrä, laitteiden yhdistäminen peliin, valtausalueiden määrittäminen sekä erän kesto ja pelimoodi.
+* _Liity peliin_-näkymässä näkyy lista tarjolla olevista peleistä tai se, mihin peliin on liittynyt. Lisäksi teknistä tietoa, kuten virhesanomat.
+* _Profiilinäkymässä_ yksittäinen pelaaja voi määrittää oman pelinimen sekä profiilikuvan.
+* _Pistenäkymässä_ näkyvät pelaajien pisteet sekä omat parhaat pisteet kautta aikojen.
