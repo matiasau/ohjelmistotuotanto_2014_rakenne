@@ -19,11 +19,19 @@ Ennen pelin alkua moduuli kalibroituu tarjolla olevan verkkosignaalin perusteell
 - mahdollistaa vektorimuotoisen tilakartan luomisen pelaajan inputin ja paikannustiedon perusteella
 - karttaa voi halutessaan luoda useampi pelaaja jolloin peli saadaan nopeammin käyntiin
 - mahdollistaa poweruppien lisäämisen tilakarttaan
+- mahdollistaa valloitettavien alueiden määrittelemisen tilakarttaan joko tilan rajojen, esimerkiksi seinien, tai tilariippumattomien kordinaattien (vapaavalintaiset pisteet tilassa) perusteella.
 
 ### Pelin ollessa käynnissä
 - hakee sisätilapaikannusmoduulilta jatkuvana datastriiminä paikallisen pelaajan sijantitiedot
 - hakee verkosta jatkuvana datastriiminä muiden pelaajien paikannustiedot 
 - käyttäjän aktiivisesta powerupista riippuen piilottaa pelaajan kartalta tai muuttaa pelaajan ikonia powerupin ehtojen mukaisesti
+- havaitsee jos pelaaja on valoitettavalla alueella
+
+## Pistelaskenta
+- saa karttakomponentilta tiedon jos pelaaja on valloitusalueella
+- jos alue ei ole vallattu tai on vastakkaisen tiimin hallussa, pistelaskentakomponentti aloittaa alueen valloittamisen määritellyn taimerin perusteella
+- aluekaappauksista saa pisteitä sen mukaan onko alue ollut valtaamaton tai vallattu, vallatun alueen kaappauksesta saa enemmän pisteitä kuin valtaamattoman alueen kaappauksesta
+- alueiden pitämisestä hallinnassa saa pisteitä sen mukaan kuinka kauan hallinta on kestänyt
 
 ## Powerupit
 Sisältää kaikki pelissä tarjolla olevat powerupit joita voi lisätä karttakomponentissa tilakarttaan ja sitä kautta peliin. Pelaajat voivat käyttää saamiaan poweruppeja missä tahansa pelin vaiheessa powerup-valikon kautta.
