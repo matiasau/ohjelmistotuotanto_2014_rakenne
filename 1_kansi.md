@@ -6,6 +6,5 @@ IIR - Insinöörit ilman rajoja
 ### Tiimin jäsenet
 * Matias Autio
 * Hannes Nachtigall
-
 ___
 v0.1 (2014-12-01)
