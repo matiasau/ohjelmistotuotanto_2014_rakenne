@@ -6,7 +6,7 @@
 
 ## Käyttötapauskaavio:
 
-![usecase-diagram]https://github.com/matiasau/ohjelmistotuotanto_2014_rakenne/blob/master/use-case-AreaControl.png "Käyttötapauskaavio")
+![usecase-diagram] (https://github.com/matiasau/ohjelmistotuotanto_2014_rakenne/blob/master/use-case-AreaControl.png "Käyttötapauskaavio")
 
 ## Tärkeimmät käyttötapaukset
 
