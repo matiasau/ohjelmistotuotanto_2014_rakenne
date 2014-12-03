@@ -9,8 +9,8 @@ Projekti sujui odotusten mukaisesti ja hyvällä vauhdilla vaikka aika aika alus
 
 ## Työtunnit
 Hannes: 5,5
-Matias: 8
-Yhteensä: 13,5
+Matias: 9
+Yhteensä: 14,5
 
 ## Mitä tekisimme seuraavalla kerralla toisin
 
