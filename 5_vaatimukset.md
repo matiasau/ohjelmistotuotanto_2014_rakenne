@@ -1,13 +1,3 @@
-# Vaatimukset 
-
-* Kuvaile tänne funktionaaliset ja ei-funktionaaliset vaatimukset
-* Funktionaaliset vaatimukset
-  * Tarkentavat käyttötapauksia
-* Ei-funktionaaliset vaatimukset
-  * Esim käytettävyyteen, tietoturvaan, tehokkuuteen, skaalautuvuuteen, hintaan ja prosessimalliin liittyvät vaatimukset
-* **Muista esittää vaatimukset jäljitettävässä muodossa, yksiselitteisesti**
-* Keskeinen tapa (erityisesti ei-funktionaalisiin vaatimuksiin) yksiselitteisille kuvauksille on vaatimusten **mitattavuus** (software metrics)
-
 ## Käyttöliittymä
 Käyttöliittymän on oltava selkeä, helppokäyttöinen ja näyttävä. Sen on oltava yhdenmukainen pelin tyylin ja muun grafiikan kanssa.
 Vaatimukset:
@@ -18,7 +8,7 @@ Vaatimukset:
 - käyttöliittymässä täytyy esiintyä pelin logo ja olla taustakuva
 
 ## Paikannus
-Paikannuksen on toimittava tarpeeksi luotettavasti ja tarkasti jotta pelaaminen on mahdollista. Paikannuksen vaadittava tarkkuus hyvän pelikokemuksen mahdollistamiseksi on vähintään +-0,9m ja suositeltava tarkkuu +-0,75m pelaajan todellisesta lokaatiosta..
+Paikannuksen on toimittava tarpeeksi luotettavasti ja tarkasti jotta pelaaminen on mahdollista. Paikannuksen vaadittava tarkkuus hyvän pelikokemuksen mahdollistamiseksi on vähintään +-0,9m ja suositeltava tarkkuu +-0,75m pelaajan todellisesta sijainnista.
 
 Paikallisen ja muiden pelaajien paikannustiedon hakemisen täytyy olla tarpeeksi nopeaa jotta pelikartta pystytään päivittämään tehokkaasti eikä lageja tai pelikokemusta huonontavia kokemuksia syntyisi. Pelikartan piirtonopeus ei saisi laskea milloinkaan alle 5fps:n.
 

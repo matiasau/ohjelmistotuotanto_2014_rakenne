@@ -25,11 +25,11 @@ Ennen pelin alkua moduuli kalibroituu tarjolla olevan verkkosignaalin perusteell
 - hakee sisätilapaikannusmoduulilta jatkuvana datastriiminä paikallisen pelaajan sijantitiedot
 - hakee verkosta jatkuvana datastriiminä muiden pelaajien paikannustiedot 
 - käyttäjän aktiivisesta powerupista riippuen piilottaa pelaajan kartalta tai muuttaa pelaajan ikonia powerupin ehtojen mukaisesti
-- havaitsee jos pelaaja on valoitettavalla alueella
+- havaitsee jos pelaaja on valloitettavalla alueella
 
 ## Pistelaskenta
 - saa karttakomponentilta tiedon jos pelaaja on valloitusalueella
-- jos alue ei ole vallattu tai on vastakkaisen tiimin hallussa, pistelaskentakomponentti aloittaa alueen valloittamisen määritellyn taimerin perusteella
+- jos alue ei ole vallattu tai on vastakkaisen tiimin hallussa, pistelaskentakomponentti aloittaa alueen valloittamisen määritellyn ajastimen perusteella
 - aluekaappauksista saa pisteitä sen mukaan onko alue ollut valtaamaton tai vallattu, vallatun alueen kaappauksesta saa enemmän pisteitä kuin valtaamattoman alueen kaappauksesta
 - alueiden pitämisestä hallinnassa saa pisteitä sen mukaan kuinka kauan hallinta on kestänyt
 
