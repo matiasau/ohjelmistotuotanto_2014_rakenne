@@ -1,5 +1,8 @@
 ## Sisätilapaikannusprojekti - Area Control -peli
 
+![splash]((https://github.com/matiasau/ohjelmistotuotanto_2014_rakenne/blob/master/splash.png)
+
+
 ### Tiimin nimi
 IIR - Insinöörit ilman rajoja
 
@@ -7,4 +10,4 @@ IIR - Insinöörit ilman rajoja
 * Matias Autio
 * Hannes Nachtigall
 ___
-v0.1 (2014-12-01)
+v0.2 (2014-12-03)
