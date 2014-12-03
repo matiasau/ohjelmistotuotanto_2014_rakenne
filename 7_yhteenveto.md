@@ -5,19 +5,19 @@
 * Mitä tekisit toisin seuraavassa määrittelyprojektissa?
 * Olitteko tyytyväisiä työhönne?
 
-Projekti sujui odotusten mukaisesti ja hyvällä vauhdilla vaikka aika aika alussa ryhmämme kolmas jäsen joutui jättämään projektin kesken. Vaikeinta projektissa oli vaatimusmäärittelyn tekeminen koska monista ohjelmaan liittyvistä asioista ei tiennyt tarpeeksi. Esimerkiksi turvallisesta tiedon lähettämisestä julkisessa verkossa emme tienneet juuri mitään. Helpointa oli projektin määrittely.
+Projekti sujui odotusten mukaisesti ja hyvällä vauhdilla vaikka aika aika alussa ryhmämme kolmas jäsen joutui jättämään projektin kesken. Vaikeinta projektissa oli vaatimusmäärittelyn tekeminen koska monista ohjelmaan liittyvistä asioista ei tiennyt tarpeeksi. Esimerkiksi turvallisesta tiedon lähettämisestä julkisessa verkossa emme tienneet juuri mitään. Helpointa oli projektin määrittely ja peli-idean jalostaminen. Työnjako sujui hyvin.
 
 ## Työtunnit
 Hannes: 5,5
-Matias: 
-Yhteensä:
+Matias: 8
+Yhteensä: 13,5
 
 ## Mitä tekisimme seuraavalla kerralla toisin
 
 ## Itsearviointi
 Hannes:
 
-Matias:
+Matias: Työskentely painottui vahvasti projektin loppupäähän, eli ajankäyttöä tulisi miettiä paremmin.
 ## Vertaisarviointi
 Hannes:
 

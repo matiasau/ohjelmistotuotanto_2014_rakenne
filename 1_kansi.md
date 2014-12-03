@@ -1,6 +1,6 @@
 ## Sisätilapaikannusprojekti - Area Control -peli
 
-![splash](https://github.com/matiasau/ohjelmistotuotanto_2014_rakenne/blob/master/splash-small.png)
+![splash](https://github.com/matiasau/ohjelmistotuotanto_2014_rakenne/blob/master/splash-iphone4.png)
 
 
 ### Tiimin nimi
