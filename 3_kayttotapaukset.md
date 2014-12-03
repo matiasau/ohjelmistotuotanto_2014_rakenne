@@ -6,7 +6,7 @@
 
 ## Käyttötapauskaavio:
 
-https://www.lucidchart.com/invitations/accept/375b9779-0afa-4e2b-baa9-0b7d403abaf4
+![usecase-diagram]https://github.com/matiasau/ohjelmistotuotanto_2014_rakenne/blob/master/use-case-AreaControl.png "Käyttötapauskaavio")
 
 ## Tärkeimmät käyttötapaukset
 
