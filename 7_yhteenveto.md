@@ -14,6 +14,7 @@ Yhteensä: 14,5
 
 ## Mitä tekisimme seuraavalla kerralla toisin
 
+
 ## Itsearviointi
 Hannes:
 
@@ -22,3 +23,4 @@ Matias: Työskentely painottui vahvasti projektin loppupäähän, eli ajankäytt
 Hannes:
 
 Matias:
+Yhteistyö Hanneksen kanssa sujui mutkattomasti, ja saimme tehtyä hommia hyvin niin etänä kuin fyysisesti samassa paikassa.
